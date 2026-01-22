@@ -56,7 +56,7 @@ My responsibilities in this project include:
 
 | Status             | QR Code | Access Link |
 |--------------------|---------|-------------|
-| Active  | ![QR](path/to/qrcode.png) | [[Open](#)](https://play.google.com/store/apps/details?id=co.id.irasa.myirs&pcampaignid=web_share)| 
+| Active  | ![QR](path/qrcode.png) | https://play.google.com/store/apps/details?id=co.id.irasa.myirs&pcampaignid=web_share| 
 
 ---
 
